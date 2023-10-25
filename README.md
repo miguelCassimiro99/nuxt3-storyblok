@@ -1,4 +1,8 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Using Storyblok
+
+### Use
+This repo can be used as a initial setup for using Storyblok with Nuxt 3
+You need to create your .env file and add the key as an env var.
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
